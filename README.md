@@ -44,7 +44,7 @@ See full [documentation](https://jsdecena.github.io/laracom)
 
 # Contributors
 
-<a href="https://github.com/jsdecena/laracom/graphs/contributors"><img src="https://opencollective.com/laracom/contributors.svg?width=890" title="contributors" alt="contributors" /></a>
+<a href="https://github.com/dragon1227/laracom/graphs/contributors"><img src="https://opencollective.com/laracom/contributors.svg?width=890" title="contributors" alt="contributors" /></a>
 
 
 ## License
